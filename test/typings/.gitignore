@@ -1,0 +1,4 @@
+node_modules/
+_generated/
+src/**/*.js
+src/**/*.js.map
