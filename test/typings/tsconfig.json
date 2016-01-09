@@ -11,7 +11,7 @@
 		"./*.ts",
 		"./src/**/*.ts",
 		"./typings/**/*.d.ts",
-		"../../typings/modules.d.ts"
+		"../../typings/**/*.d.ts"
 	],
 	"files": [
 		"./request/xhr.ts"
